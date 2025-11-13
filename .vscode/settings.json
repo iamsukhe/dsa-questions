@@ -4,6 +4,8 @@
         "vector": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "exception": "cpp",
+        "type_traits": "cpp"
     }
 }
