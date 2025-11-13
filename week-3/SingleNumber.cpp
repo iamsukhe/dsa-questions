@@ -1,6 +1,7 @@
 // Input: nums = [2,2,1]
 // Output: 1
 #include <iostream>
+#include <vector>
 using namespace std;
 
 int main()

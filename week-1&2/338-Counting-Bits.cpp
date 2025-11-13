@@ -20,6 +20,7 @@
 // 4 --> 100
 // 5 --> 101
 #include <iostream>
+#include <vector>
 using namespace std;
 
 int main()

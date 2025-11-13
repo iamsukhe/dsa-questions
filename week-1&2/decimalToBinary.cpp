@@ -1,5 +1,6 @@
 // Convert Decimal Number to Binary Number
 #include <iostream>
+#include <vector>
 using namespace std;
 
 int main()
