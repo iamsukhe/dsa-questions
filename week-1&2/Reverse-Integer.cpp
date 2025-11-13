@@ -1,4 +1,4 @@
-// Check if a number is prime
+// Reverse Integer
 #include <iostream>
 using namespace std;
 
